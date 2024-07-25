@@ -1,0 +1,768 @@
+29/05/2024 12:17:16 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+29/05/2024 12:17:17 Buffered the proposed blocks
+29/05/2024 12:17:28 Intersected the buffered proposed blocks with the cwh layer
+30/05/2024 15:03:04 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+30/05/2024 15:03:47 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+30/05/2024 15:04:32 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+30/05/2024 15:04:33 Buffered the proposed blocks
+31/05/2024 08:30:07 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 08:30:07 Buffered the proposed blocks
+31/05/2024 16:02:07 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 16:02:07 Created a new table to store the results
+31/05/2024 16:02:08 Buffered the proposed blocks
+31/05/2024 16:14:59 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 16:15:00 Created a new table to store the results
+31/05/2024 16:15:00 Buffered the proposed blocks
+31/05/2024 17:13:00 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 17:14:11 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 17:15:45 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 17:18:03 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 17:19:11 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 17:20:41 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 17:20:42 Created a new table to store the results
+31/05/2024 17:21:44 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 17:21:44 Table already exists
+31/05/2024 17:21:44 5-8B
+31/05/2024 17:21:45 Buffered the proposed blocks
+31/05/2024 17:21:49 Intersected the buffered proposed blocks with the cwh layer
+31/05/2024 17:22:17 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 17:22:17 Table already exists
+31/05/2024 17:22:17 5-8B
+31/05/2024 17:22:18 Buffered the proposed blocks
+31/05/2024 17:22:22 Intersected the buffered proposed blocks with the cwh layer
+31/05/2024 17:22:23 Calculated the area of the intersected features
+31/05/2024 17:23:08 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+31/05/2024 17:23:08 Table already exists
+31/05/2024 17:23:08 5-117A
+31/05/2024 17:23:08 5-140
+31/05/2024 17:23:09 Buffered the proposed blocks
+31/05/2024 17:23:13 Intersected the buffered proposed blocks with the cwh layer
+31/05/2024 17:23:14 Calculated the area of the intersected features
+03/06/2024 11:39:34 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 11:39:34 Table already exists
+03/06/2024 11:39:34 5-117A
+03/06/2024 11:39:34 5-140
+03/06/2024 11:39:35 Buffered the proposed blocks
+03/06/2024 11:39:39 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 11:40:08 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 11:40:08 Table already exists
+03/06/2024 11:40:08 5-117A
+03/06/2024 11:40:08 5-140
+03/06/2024 11:40:09 Buffered the proposed blocks
+03/06/2024 11:40:13 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 11:41:48 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 11:41:48 Table already exists
+03/06/2024 11:41:48 5-117A
+03/06/2024 11:41:48 5-140
+03/06/2024 11:41:49 Buffered the proposed blocks
+03/06/2024 11:41:53 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 11:41:54 Calculated the area of the intersected features
+03/06/2024 11:48:35 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 11:48:35 Table already exists
+03/06/2024 11:48:35 5-117A
+03/06/2024 11:48:35 5-8B
+03/06/2024 11:48:35 10-006
+03/06/2024 11:48:35 5-140
+03/06/2024 11:48:35 6-117
+03/06/2024 11:48:36 Buffered the proposed blocks
+03/06/2024 11:48:48 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 11:48:49 Calculated the area of the intersected features
+03/06/2024 11:59:29 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 11:59:29 Table already exists
+03/06/2024 11:59:29 5-117A
+03/06/2024 11:59:29 5-8B
+03/06/2024 11:59:29 10-006
+03/06/2024 11:59:29 5-140
+03/06/2024 11:59:29 6-117
+03/06/2024 11:59:30 Buffered the proposed blocks
+03/06/2024 11:59:42 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 11:59:43 Calculated the area of the intersected features
+03/06/2024 12:01:07 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 12:01:08 Created a new table to store the results
+03/06/2024 12:01:08 5-117A
+03/06/2024 12:01:08 5-140
+03/06/2024 12:01:09 Buffered the proposed blocks
+03/06/2024 12:01:13 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 12:01:14 Calculated the area of the intersected features
+03/06/2024 12:02:00 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 12:02:00 Table already exists
+03/06/2024 12:02:00 5-117A
+03/06/2024 12:02:00 5-140
+03/06/2024 12:02:00 Buffered the proposed blocks
+03/06/2024 12:02:04 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 12:02:05 Immediate OM value is: 48.6446481984%
+03/06/2024 12:02:05 Calculated the area of the intersected features
+03/06/2024 12:06:20 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 12:06:20 Table already exists
+03/06/2024 12:06:38 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 12:06:39 Table already exists
+03/06/2024 12:06:39 5-117A
+03/06/2024 12:06:39 5-140
+03/06/2024 12:06:39 Buffered the proposed blocks
+03/06/2024 12:06:39 Object ID is: 3
+03/06/2024 12:06:43 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 12:06:44 Immediate OM value is: 48.6446481984%
+03/06/2024 12:06:44 Calculated the area of the intersected features
+03/06/2024 12:08:15 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 12:08:15 Table already exists
+03/06/2024 12:08:15 5-117A
+03/06/2024 12:08:15 5-8B
+03/06/2024 12:08:15 10-006
+03/06/2024 12:08:15 5-140
+03/06/2024 12:08:15 6-117
+03/06/2024 12:08:16 Buffered the proposed blocks
+03/06/2024 12:08:16 Object ID is: 4
+03/06/2024 12:08:26 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 12:08:27 Immediate OM value is: 43.1556269925%
+03/06/2024 12:08:27 Calculated the area of the intersected features
+03/06/2024 13:19:09 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 13:19:09 Table already exists
+03/06/2024 13:19:09 5-117A
+03/06/2024 13:19:09 5-8B
+03/06/2024 13:19:09 10-006
+03/06/2024 13:19:09 5-140
+03/06/2024 13:19:09 6-117
+03/06/2024 13:27:52 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 13:27:52 Table already exists
+03/06/2024 13:27:52 5-117A
+03/06/2024 13:27:52 5-8B
+03/06/2024 13:27:52 10-006
+03/06/2024 13:27:52 5-140
+03/06/2024 13:27:52 6-117
+03/06/2024 13:48:13 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 13:48:14 Created a new table to store the results
+03/06/2024 13:48:14 5-117A
+03/06/2024 13:48:14 5-8B
+03/06/2024 13:48:14 10-006
+03/06/2024 13:48:14 5-140
+03/06/2024 13:48:14 6-117
+03/06/2024 13:48:17 Buffered the proposed blocks
+03/06/2024 13:48:17 Object ID is: 1
+03/06/2024 13:48:28 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 13:48:28 Immediate OM value is: 43.0343612655%
+03/06/2024 13:48:29 Calculated the area of the intersected features
+03/06/2024 13:51:24 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+03/06/2024 13:51:24 Table already exists
+03/06/2024 13:51:24 5-140
+03/06/2024 13:51:27 Buffered the proposed blocks
+03/06/2024 13:51:27 Object ID is: 2
+03/06/2024 13:51:30 Intersected the buffered proposed blocks with the cwh layer
+03/06/2024 13:51:31 Immediate OM value is: 50.022072666%
+03/06/2024 13:51:31 Calculated the area of the intersected features
+10/06/2024 15:58:20 Workspace and geodatabase set up at:
+10/06/2024 15:58:20 Input data loaded
+10/06/2024 15:58:21 Net harvestable area determined
+10/06/2024 15:58:35 Tree layer clipped
+10/06/2024 15:59:16 CHM processed
+10/06/2024 15:59:27 CHM converted to points and heights processed
+10/06/2024 15:59:44 Points buffered and merged
+10/06/2024 16:04:32 Tree height buffers clipped
+10/06/2024 16:04:32 Single trees buffered and added
+10/06/2024 16:04:34 Areas calculated
+10/06/2024 16:11:19 Workspace and geodatabase set up at:
+10/06/2024 16:11:19 Input data loaded
+10/06/2024 16:11:20 Net harvestable area determined
+10/06/2024 16:11:20 Tree layer clipped
+10/06/2024 16:11:26 CHM processed
+10/06/2024 16:11:31 CHM converted to points and heights processed
+10/06/2024 16:11:38 Points buffered and merged
+10/06/2024 16:13:27 Tree height buffers clipped
+10/06/2024 16:13:27 Single trees buffered and added
+10/06/2024 16:13:28 Areas calculated
+10/06/2024 16:13:46 Workspace and geodatabase set up at:
+10/06/2024 16:13:46 Input data loaded
+10/06/2024 16:13:47 Net harvestable area determined
+10/06/2024 16:13:47 Tree layer clipped
+10/06/2024 16:13:52 CHM processed
+10/06/2024 16:13:56 CHM converted to points and heights processed
+10/06/2024 16:14:03 Points buffered and merged
+10/06/2024 16:15:54 Tree height buffers clipped
+10/06/2024 16:15:54 Single trees buffered and added
+10/06/2024 16:15:55 Areas calculated
+11/06/2024 12:12:13 Workspace and geodatabase set up at:
+11/06/2024 12:12:13 Input data loaded
+11/06/2024 12:12:14 Net harvestable area determined
+11/06/2024 12:12:14 Tree layer clipped
+11/06/2024 12:12:19 CHM processed
+11/06/2024 12:12:23 CHM converted to points and heights processed
+11/06/2024 12:12:30 Points buffered and merged
+11/06/2024 12:14:15 Tree height buffers clipped
+11/06/2024 12:14:15 Single trees buffered and added
+11/06/2024 12:14:16 Areas calculated
+11/06/2024 12:18:43 Workspace and geodatabase set up at:
+11/06/2024 12:18:43 Input data loaded
+11/06/2024 12:18:44 Net harvestable area determined
+11/06/2024 12:18:44 Tree layer clipped
+11/06/2024 12:18:49 CHM processed
+11/06/2024 12:18:53 CHM converted to points and heights processed
+11/06/2024 12:18:59 Points buffered and merged
+11/06/2024 12:20:46 Tree height buffers clipped
+11/06/2024 12:20:46 Single trees buffered and added
+11/06/2024 12:20:47 Areas calculated
+11/06/2024 12:22:37 Workspace and geodatabase set up at:
+11/06/2024 12:22:37 Input data loaded
+11/06/2024 12:22:39 Net harvestable area determined
+11/06/2024 12:23:08 Tree layer clipped
+11/06/2024 12:23:51 CHM processed
+11/06/2024 12:24:05 CHM converted to points and heights processed
+11/06/2024 12:27:26 Workspace and geodatabase set up at:
+11/06/2024 12:27:26 Input data loaded
+11/06/2024 12:27:28 Net harvestable area determined
+11/06/2024 12:27:57 Tree layer clipped
+11/06/2024 12:28:39 CHM processed
+11/06/2024 12:28:54 CHM converted to points and heights processed
+11/06/2024 12:29:16 Points buffered and merged
+11/06/2024 12:33:54 Tree height buffers clipped
+11/06/2024 12:33:54 Single trees buffered and added
+11/06/2024 12:33:57 Areas calculated
+11/06/2024 13:41:17 Subsetting (RB tests)
+11/06/2024 13:41:17 Retention
+11/06/2024 13:41:17 Non Productive
+11/06/2024 13:41:17 
+11/06/2024 13:41:17 StandHeight1m
+11/06/2024 13:41:17 
+11/06/2024 13:41:17 C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+11/06/2024 13:41:17 temp.gdb
+11/06/2024 13:41:17 
+11/06/2024 13:41:17 Workspace and geodatabase set up at:
+11/06/2024 13:41:17 Input data loaded
+11/06/2024 13:41:18 Net harvestable area determined
+11/06/2024 13:41:18 Tree layer clipped
+11/06/2024 13:41:24 CHM processed
+11/06/2024 13:41:28 CHM converted to points and heights processed
+11/06/2024 13:41:36 Points buffered and merged
+11/06/2024 13:43:23 Tree height buffers clipped
+11/06/2024 13:43:23 Single trees buffered and added
+11/06/2024 13:43:24 Areas calculated
+11/06/2024 13:56:31 Workspace and geodatabase set up at:
+11/06/2024 13:56:31 Input data loaded
+11/06/2024 13:56:32 Net harvestable area determined
+11/06/2024 13:56:32 Tree layer clipped
+11/06/2024 13:56:37 CHM processed
+11/06/2024 13:56:42 CHM converted to points and heights processed
+11/06/2024 13:56:48 Points buffered and merged
+11/06/2024 13:58:35 Tree height buffers clipped
+11/06/2024 13:58:35 Single trees buffered and added
+11/06/2024 13:58:36 Areas calculated
+11/06/2024 13:58:47 Output image created
+11/06/2024 14:16:28 Workspace and geodatabase set up at:
+11/06/2024 14:16:28 Input data loaded
+11/06/2024 14:16:29 Net harvestable area determined
+11/06/2024 14:16:29 Tree layer clipped
+11/06/2024 14:16:34 CHM processed
+11/06/2024 14:16:39 CHM converted to points and heights processed
+11/06/2024 14:16:45 Points buffered and merged
+11/06/2024 14:18:32 Tree height buffers clipped
+11/06/2024 14:18:38 Single trees buffered and added
+11/06/2024 14:18:40 Areas calculated
+11/06/2024 14:18:55 Output image created
+11/06/2024 14:47:13 Workspace and geodatabase set up at:
+11/06/2024 14:47:14 Net harvestable area determined
+11/06/2024 14:47:14 Tree layer clipped
+11/06/2024 14:47:20 CHM processed
+11/06/2024 14:47:24 CHM converted to points and heights processed
+11/06/2024 14:47:31 Points buffered and merged
+11/06/2024 14:49:22 Tree height buffers clipped
+11/06/2024 14:49:22 Single trees buffered and added
+11/06/2024 14:49:23 Areas calculated
+11/06/2024 14:49:36 Output image created
+11/06/2024 15:22:35 Workspace and geodatabase set up at:
+11/06/2024 15:22:36 Net harvestable area determined
+11/06/2024 15:22:36 Tree layer clipped
+11/06/2024 15:22:41 CHM processed
+11/06/2024 15:22:45 CHM converted to points and heights processed
+11/06/2024 15:22:49 Points buffered and merged
+11/06/2024 15:22:55 Tree height buffers clipped
+11/06/2024 15:22:55 Single trees buffered and added
+11/06/2024 15:22:55 Areas calculated
+11/06/2024 15:22:58 Output image created
+11/06/2024 15:23:06 Workspace and geodatabase set up at:
+11/06/2024 15:23:07 Net harvestable area determined
+11/06/2024 15:23:07 Tree layer clipped
+11/06/2024 15:23:12 CHM processed
+11/06/2024 15:23:16 CHM converted to points and heights processed
+11/06/2024 15:23:21 Points buffered and merged
+11/06/2024 15:23:26 Tree height buffers clipped
+11/06/2024 15:23:26 Single trees buffered and added
+11/06/2024 15:23:26 Areas calculated
+11/06/2024 15:23:30 Output image created
+11/06/2024 15:27:45 Workspace and geodatabase set up at:
+11/06/2024 15:27:46 Net harvestable area determined
+11/06/2024 15:27:46 Tree layer clipped
+11/06/2024 15:27:52 CHM processed
+11/06/2024 15:27:56 CHM converted to points and heights processed
+11/06/2024 15:28:03 Points buffered and merged
+11/06/2024 15:29:52 Tree height buffers clipped
+11/06/2024 15:29:52 Single trees buffered and added
+11/06/2024 15:29:53 Areas calculated
+11/06/2024 15:30:04 Output image created
+11/06/2024 15:32:10 Workspace and geodatabase set up at:
+11/06/2024 15:32:10 Net harvestable area determined
+11/06/2024 15:32:10 Tree layer clipped
+11/06/2024 15:32:16 CHM processed
+11/06/2024 15:32:20 CHM converted to points and heights processed
+11/06/2024 15:32:27 Points buffered and merged
+11/06/2024 15:34:18 Tree height buffers clipped
+11/06/2024 15:34:18 Single trees buffered and added
+11/06/2024 15:34:18 Areas calculated
+11/06/2024 15:34:41 Output image created
+11/06/2024 15:42:05 Workspace and geodatabase set up at:
+11/06/2024 15:42:05 Net harvestable area determined
+11/06/2024 15:42:06 Tree layer clipped
+11/06/2024 15:42:12 CHM processed
+11/06/2024 15:42:15 CHM converted to points and heights processed
+11/06/2024 15:42:20 Points buffered and merged
+11/06/2024 15:42:25 Tree height buffers clipped
+11/06/2024 15:42:25 Single trees buffered and added
+11/06/2024 15:42:25 Areas calculated
+11/06/2024 15:42:28 Output image created
+11/06/2024 15:47:12 Workspace and geodatabase set up at:
+11/06/2024 15:47:12 Net harvestable area determined
+11/06/2024 15:47:13 Tree layer clipped
+11/06/2024 15:47:19 CHM processed
+11/06/2024 15:47:23 CHM converted to points and heights processed
+11/06/2024 15:47:27 Points buffered and merged
+11/06/2024 15:47:33 Tree height buffers clipped
+11/06/2024 15:55:23 Single trees buffered and added
+11/06/2024 15:55:46 Areas calculated
+11/06/2024 15:56:21 Output image created
+11/06/2024 15:56:42 Workspace and geodatabase set up at:
+11/06/2024 15:56:43 Net harvestable area determined
+11/06/2024 15:56:43 Tree layer clipped
+11/06/2024 15:56:57 Workspace and geodatabase set up at:
+11/06/2024 15:56:57 Net harvestable area determined
+11/06/2024 15:56:57 Tree layer clipped
+11/06/2024 15:57:04 CHM processed
+11/06/2024 15:57:07 CHM converted to points and heights processed
+11/06/2024 15:57:12 Points buffered and merged
+11/06/2024 15:57:17 Tree height buffers clipped
+11/06/2024 15:57:17 Single trees buffered and added
+11/06/2024 15:57:18 Areas calculated
+11/06/2024 15:57:20 Output image created
+11/06/2024 15:58:17 Workspace and geodatabase set up at:
+11/06/2024 15:58:18 Net harvestable area determined
+11/06/2024 15:58:18 Tree layer clipped
+11/06/2024 15:58:24 CHM processed
+11/06/2024 15:58:28 CHM converted to points and heights processed
+11/06/2024 15:58:32 Points buffered and merged
+11/06/2024 15:58:38 Tree height buffers clipped
+11/06/2024 15:58:38 Single trees buffered and added
+11/06/2024 15:58:38 Areas calculated
+11/06/2024 15:58:41 Output image created
+11/06/2024 16:02:52 Workspace and geodatabase set up at:
+11/06/2024 16:02:53 Net harvestable area determined
+11/06/2024 16:02:53 Tree layer clipped
+11/06/2024 16:02:59 CHM processed
+11/06/2024 16:03:02 CHM converted to points and heights processed
+11/06/2024 16:03:07 Points buffered and merged
+11/06/2024 16:03:12 Tree height buffers clipped
+11/06/2024 16:03:12 Single trees buffered and added
+11/06/2024 16:03:12 Areas calculated
+11/06/2024 16:03:15 Output image created
+12/06/2024 11:13:59 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+12/06/2024 11:14:00 Created a new table to store the results
+12/06/2024 11:14:00 5-117A
+12/06/2024 11:14:00 5-8B
+12/06/2024 11:14:00 10-006
+12/06/2024 11:14:00 5-140
+12/06/2024 11:14:00 6-117
+12/06/2024 11:14:02 Buffered the proposed blocks
+12/06/2024 11:14:02 Object ID is: 1
+12/06/2024 11:14:12 Intersected the buffered proposed blocks with the cwh layer
+12/06/2024 11:14:12 Immediate OM value is: 43.0343612655%
+12/06/2024 11:14:12 Calculated the area of the intersected features
+12/06/2024 11:15:23 File geodatabase already exists at: C:\projects\mosaic\MosaicForestInfluenceTool_Data\Data
+12/06/2024 11:15:23 Table already exists
+12/06/2024 11:15:23 5-140
+12/06/2024 11:15:25 Buffered the proposed blocks
+12/06/2024 11:15:25 Object ID is: 2
+12/06/2024 11:15:28 Intersected the buffered proposed blocks with the cwh layer
+12/06/2024 11:15:28 Immediate OM value is: 50.022072666%
+12/06/2024 11:15:28 Calculated the area of the intersected features
+12/06/2024 11:25:25 Workspace and geodatabase set up at:
+12/06/2024 11:25:26 Net harvestable area determined
+12/06/2024 11:25:26 Tree layer clipped
+12/06/2024 11:25:31 CHM processed
+12/06/2024 11:25:36 CHM converted to points and heights processed
+12/06/2024 11:25:43 Points buffered and merged
+12/06/2024 11:26:09 Tree height buffers clipped
+12/06/2024 11:26:09 Single trees buffered and added
+12/06/2024 11:26:10 Areas calculated
+12/06/2024 11:26:14 Output image created
+12/06/2024 11:26:25 Workspace and geodatabase set up at:
+12/06/2024 11:26:25 Net harvestable area determined
+12/06/2024 11:26:25 Tree layer clipped
+12/06/2024 11:26:31 CHM processed
+12/06/2024 11:26:36 CHM converted to points and heights processed
+12/06/2024 11:26:43 Points buffered and merged
+12/06/2024 11:27:09 Tree height buffers clipped
+12/06/2024 11:27:09 Single trees buffered and added
+12/06/2024 11:27:10 Areas calculated
+12/06/2024 11:27:18 Output image created
+12/06/2024 12:27:47 Workspace and geodatabase set up at:
+12/06/2024 12:27:48 Net harvestable area determined
+12/06/2024 12:27:48 Tree layer clipped
+12/06/2024 12:30:35 Workspace and geodatabase set up at:
+12/06/2024 12:30:36 Net harvestable area determined
+12/06/2024 12:30:36 Tree layer clipped
+12/06/2024 12:30:40 CHM processed
+12/06/2024 12:30:45 CHM converted to points and heights processed
+12/06/2024 12:40:13 Workspace and geodatabase set up at:
+12/06/2024 12:40:15 Net harvestable area determined
+12/06/2024 12:40:15 Tree layer clipped
+12/06/2024 12:40:19 CHM processed
+12/06/2024 12:40:24 CHM converted to points and heights processed
+12/06/2024 12:40:52 Points buffered and merged
+12/06/2024 12:40:53 Tree height buffers clipped
+12/06/2024 12:40:53 Single trees buffered and added
+12/06/2024 12:40:53 Areas calculated
+12/06/2024 12:52:59 Output image created
+12/06/2024 13:13:56 Workspace and geodatabase set up at:
+12/06/2024 13:13:57 Net harvestable area determined
+12/06/2024 13:13:57 Tree layer clipped
+12/06/2024 13:14:01 CHM processed
+12/06/2024 13:14:06 CHM converted to points and heights processed
+12/06/2024 13:18:11 Workspace and geodatabase set up at:
+12/06/2024 13:18:13 Net harvestable area determined
+12/06/2024 13:18:13 Tree layer clipped
+12/06/2024 13:18:17 CHM processed
+12/06/2024 13:18:22 CHM converted to points and heights processed
+12/06/2024 13:18:56 Points buffered and merged
+12/06/2024 13:18:57 Tree height buffers clipped
+12/06/2024 13:18:57 Single trees buffered and added
+12/06/2024 13:18:58 Areas calculated
+12/06/2024 13:19:00 Output image created
+17/06/2024 11:00:08 Workspace and geodatabase set up at:
+17/06/2024 11:00:09 Net harvestable area determined
+17/06/2024 11:00:10 Tree layer clipped
+17/06/2024 11:00:45 Workspace and geodatabase set up at:
+17/06/2024 11:00:47 Net harvestable area determined
+17/06/2024 11:00:47 Tree layer clipped
+17/06/2024 11:02:30 Workspace and geodatabase set up at:
+17/06/2024 11:02:31 Net harvestable area determined
+17/06/2024 11:02:31 Tree layer clipped
+17/06/2024 11:02:52 Workspace and geodatabase set up at:
+17/06/2024 11:02:53 Net harvestable area determined
+17/06/2024 11:02:54 Tree layer clipped
+17/06/2024 11:08:15 Workspace and geodatabase set up at:
+17/06/2024 11:08:16 Net harvestable area determined
+17/06/2024 11:08:17 Tree layer clipped
+17/06/2024 11:08:22 CHM processed
+17/06/2024 11:08:24 CHM converted to points and heights processed
+17/06/2024 11:08:40 Points buffered and merged
+17/06/2024 11:08:41 Tree height buffers clipped
+17/06/2024 11:08:41 Single trees buffered and added
+17/06/2024 11:08:41 Areas calculated
+17/06/2024 11:08:43 Output image created
+18/06/2024 09:23:35 Workspace and geodatabase set up at:
+18/06/2024 09:23:37 Net harvestable area determined
+18/06/2024 09:23:37 Tree layer clipped
+18/06/2024 09:23:43 CHM processed
+18/06/2024 09:23:46 CHM converted to points and heights processed
+18/06/2024 09:24:01 Points buffered and merged
+18/06/2024 09:24:02 Tree height buffers clipped
+18/06/2024 09:24:02 Single trees buffered and added
+18/06/2024 09:24:02 Areas calculated
+18/06/2024 09:24:04 Output image created
+26/06/2024 08:39:11 Workspace and geodatabase set up at:
+26/06/2024 08:39:13 Net harvestable area determined
+26/06/2024 08:39:14 Tree layer clipped
+26/06/2024 08:39:14 Tree layer exists
+26/06/2024 08:39:19 CHM processed
+26/06/2024 08:39:21 CHM converted to points and heights processed
+26/06/2024 08:39:38 Points buffered and merged
+26/06/2024 08:39:39 Tree height buffers clipped
+26/06/2024 08:39:39 Single trees buffered and added
+26/06/2024 08:39:39 Areas calculated
+26/06/2024 08:39:43 Output image created
+15/07/2024 10:57:54 Workspace and geodatabase set up at:
+15/07/2024 10:57:55 Net harvestable area determined
+15/07/2024 10:57:56 Tree layer clipped
+15/07/2024 10:57:56 Tree layer exists
+15/07/2024 10:58:01 CHM processed
+15/07/2024 10:58:03 CHM converted to points and heights processed
+15/07/2024 10:58:18 Points buffered and merged
+15/07/2024 10:58:18 Tree height buffers clipped
+15/07/2024 10:58:18 Single trees buffered and added
+15/07/2024 10:58:18 Areas calculated
+15/07/2024 10:58:21 Output image created
+16/07/2024 08:56:25 Workspace and geodatabase set up at:
+16/07/2024 08:56:26 Net harvestable area determined
+16/07/2024 08:56:27 Tree layer clipped
+16/07/2024 08:56:27 Tree layer exists
+16/07/2024 08:56:32 CHM processed
+16/07/2024 08:56:34 CHM converted to points and heights processed
+16/07/2024 08:56:51 Points buffered and merged
+16/07/2024 08:56:52 Tree height buffers clipped
+16/07/2024 08:56:52 Single trees buffered and added
+16/07/2024 08:56:52 Areas calculated
+16/07/2024 08:56:54 Output image created
+16/07/2024 09:09:05 Workspace and geodatabase set up at:
+16/07/2024 09:09:06 Net harvestable area determined
+16/07/2024 09:09:07 Tree layer clipped
+16/07/2024 09:09:07 Tree layer exists
+16/07/2024 09:09:12 CHM processed
+16/07/2024 09:09:14 CHM converted to points and heights processed
+16/07/2024 09:09:30 Points buffered and merged
+16/07/2024 09:09:30 Tree height buffers clipped
+16/07/2024 09:09:30 Single trees buffered and added
+16/07/2024 09:09:30 Areas calculated
+16/07/2024 09:09:32 Output image created
+16/07/2024 09:11:53 Workspace and geodatabase set up at:
+16/07/2024 09:11:55 Net harvestable area determined
+16/07/2024 09:11:55 Tree layer clipped
+16/07/2024 09:11:56 Tree layer exists
+16/07/2024 09:12:02 CHM processed
+16/07/2024 09:12:04 CHM converted to points and heights processed
+16/07/2024 09:12:21 Points buffered and merged
+16/07/2024 09:12:22 Tree height buffers clipped
+16/07/2024 09:12:22 Single trees buffered and added
+16/07/2024 09:12:22 Areas calculated
+16/07/2024 09:12:24 Output image created
+16/07/2024 09:30:09 Workspace and geodatabase set up at:
+16/07/2024 09:30:10 Net harvestable area determined
+16/07/2024 09:30:11 Tree layer clipped
+16/07/2024 09:30:11 Tree layer exists
+16/07/2024 09:34:33 Workspace and geodatabase set up at:
+16/07/2024 09:34:34 Net harvestable area determined
+16/07/2024 09:34:35 Tree layer clipped
+16/07/2024 09:34:35 Tree layer exists
+16/07/2024 09:47:01 Workspace and geodatabase set up at:
+16/07/2024 09:47:02 Net harvestable area determined
+16/07/2024 09:47:03 Tree layer clipped
+16/07/2024 09:47:03 Tree layer exists
+16/07/2024 09:47:08 CHM processed
+16/07/2024 09:47:11 CHM converted to points and heights processed
+16/07/2024 09:47:27 Points buffered and merged
+16/07/2024 09:47:28 Tree height buffers clipped
+16/07/2024 09:47:28 Single trees buffered and added
+16/07/2024 09:47:28 Areas calculated
+16/07/2024 09:47:30 Output image created
+16/07/2024 09:51:26 Workspace and geodatabase set up at:
+16/07/2024 09:51:27 Net harvestable area determined
+16/07/2024 09:51:27 Tree layer clipped
+16/07/2024 09:51:31 CHM processed
+16/07/2024 09:51:35 CHM converted to points and heights processed
+16/07/2024 09:52:09 Points buffered and merged
+16/07/2024 09:52:09 Tree height buffers clipped
+16/07/2024 09:52:09 Single trees buffered and added
+16/07/2024 09:52:09 Areas calculated
+16/07/2024 09:52:12 Output image created
+16/07/2024 09:53:10 Workspace and geodatabase set up at:
+16/07/2024 09:53:11 Net harvestable area determined
+16/07/2024 09:53:12 Tree layer clipped
+16/07/2024 09:53:12 Tree layer exists
+16/07/2024 09:53:19 CHM processed
+16/07/2024 09:53:21 CHM converted to points and heights processed
+16/07/2024 09:53:37 Points buffered and merged
+16/07/2024 09:53:38 Tree height buffers clipped
+16/07/2024 09:53:38 Single trees buffered and added
+16/07/2024 09:53:38 Areas calculated
+16/07/2024 09:53:40 Output image created
+16/07/2024 12:15:44 Workspace and geodatabase set up at:
+16/07/2024 12:15:46 Net harvestable area determined
+16/07/2024 12:15:46 Tree layer clipped
+16/07/2024 12:15:46 Tree layer exists
+16/07/2024 12:15:52 CHM processed
+16/07/2024 12:15:54 CHM converted to points and heights processed
+16/07/2024 12:16:10 Points buffered and merged
+16/07/2024 12:16:11 Tree height buffers clipped
+16/07/2024 12:16:11 Single trees buffered and added
+16/07/2024 12:16:11 Areas calculated
+16/07/2024 12:16:13 Output image created
+16/07/2024 12:40:21 Workspace and geodatabase set up at:
+16/07/2024 12:40:22 Net harvestable area determined
+16/07/2024 12:40:23 Tree layer clipped
+16/07/2024 12:40:23 Tree layer exists
+16/07/2024 12:40:28 CHM processed
+16/07/2024 12:40:30 CHM converted to points and heights processed
+16/07/2024 12:40:46 Points buffered and merged
+16/07/2024 12:40:47 Tree height buffers clipped
+16/07/2024 12:43:51 Workspace and geodatabase set up at:
+16/07/2024 12:43:52 Net harvestable area determined
+16/07/2024 12:43:53 Tree layer clipped
+16/07/2024 12:43:53 Tree layer exists
+16/07/2024 12:43:57 CHM processed
+16/07/2024 12:43:59 CHM converted to points and heights processed
+16/07/2024 12:44:14 Points buffered and merged
+16/07/2024 12:44:15 Tree height buffers clipped
+16/07/2024 12:44:17 Single trees buffered and added
+16/07/2024 12:44:17 Areas calculated
+16/07/2024 12:44:19 Output image created
+16/07/2024 12:44:28 Workspace and geodatabase set up at:
+16/07/2024 12:44:29 Net harvestable area determined
+16/07/2024 12:44:30 Tree layer clipped
+16/07/2024 12:44:30 Tree layer exists
+16/07/2024 12:44:34 CHM processed
+16/07/2024 12:44:36 CHM converted to points and heights processed
+16/07/2024 12:44:51 Points buffered and merged
+16/07/2024 12:44:52 Tree height buffers clipped
+16/07/2024 12:44:54 Single trees buffered and added
+16/07/2024 12:44:54 Areas calculated
+16/07/2024 12:44:56 Output image created
+16/07/2024 13:06:23 Workspace and geodatabase set up at:
+16/07/2024 13:06:24 Net harvestable area determined
+16/07/2024 13:06:24 Tree layer clipped
+16/07/2024 13:07:41 Workspace and geodatabase set up at:
+16/07/2024 13:07:43 Net harvestable area determined
+16/07/2024 13:07:43 Tree layer clipped
+16/07/2024 13:07:46 CHM processed
+16/07/2024 13:07:48 CHM converted to points and heights processed
+16/07/2024 13:07:55 Points buffered and merged
+16/07/2024 13:07:56 Tree height buffers clipped
+16/07/2024 13:07:56 Single trees buffered and added
+16/07/2024 13:07:56 Areas calculated
+16/07/2024 13:07:58 Output image created
+16/07/2024 13:13:25 Workspace and geodatabase set up at:
+16/07/2024 13:13:27 Net harvestable area determined
+16/07/2024 13:13:27 Tree layer clipped
+16/07/2024 13:19:27 Workspace and geodatabase set up at:
+16/07/2024 13:19:28 Net harvestable area determined
+16/07/2024 13:19:28 Tree layer clipped
+16/07/2024 13:25:05 Workspace and geodatabase set up at:
+16/07/2024 13:25:06 Net harvestable area determined
+16/07/2024 13:25:06 Tree layer clipped
+16/07/2024 13:34:09 Workspace and geodatabase set up at:
+16/07/2024 13:34:11 Net harvestable area determined
+16/07/2024 13:34:11 Tree layer clipped
+16/07/2024 13:44:47 Workspace and geodatabase set up at:
+16/07/2024 13:45:04 Workspace and geodatabase set up at:
+16/07/2024 13:45:06 Net harvestable area determined
+16/07/2024 13:45:06 Tree layer clipped
+16/07/2024 13:48:22 Workspace and geodatabase set up at:
+16/07/2024 13:48:23 Net harvestable area determined
+16/07/2024 13:48:23 Tree layer clipped
+16/07/2024 13:49:16 Workspace and geodatabase set up at:
+16/07/2024 13:49:18 Net harvestable area determined
+16/07/2024 13:49:18 Tree layer clipped
+17/07/2024 13:57:47 Workspace and geodatabase set up at:
+17/07/2024 13:57:48 Net harvestable area determined
+17/07/2024 13:57:48 Tree layer clipped
+17/07/2024 15:08:40 Workspace and geodatabase set up at:
+17/07/2024 15:08:41 Net harvestable area determined
+17/07/2024 15:08:41 Tree layer clipped
+17/07/2024 15:09:23 Workspace and geodatabase set up at:
+17/07/2024 15:09:25 Net harvestable area determined
+17/07/2024 15:09:25 Tree layer clipped
+17/07/2024 15:09:29 CHM processed
+17/07/2024 15:09:31 CHM converted to points and heights processed
+17/07/2024 15:09:32 Points buffered and merged
+17/07/2024 15:09:33 Tree height buffers clipped
+17/07/2024 15:09:33 Single trees buffered and added
+17/07/2024 15:09:33 Areas calculated
+17/07/2024 15:09:35 Output image created
+17/07/2024 15:13:44 Workspace and geodatabase set up at:
+17/07/2024 15:13:46 Net harvestable area determined
+17/07/2024 15:13:46 Tree layer clipped
+17/07/2024 15:13:51 CHM processed
+17/07/2024 15:13:52 CHM converted to points and heights processed
+17/07/2024 15:13:53 Points buffered and merged
+17/07/2024 15:13:54 Tree height buffers clipped
+17/07/2024 15:13:54 Single trees buffered and added
+17/07/2024 15:13:54 Areas calculated
+17/07/2024 15:13:56 Output image created
+17/07/2024 15:16:30 Workspace and geodatabase set up at:
+17/07/2024 15:16:31 Net harvestable area determined
+17/07/2024 15:16:31 Tree layer clipped
+17/07/2024 15:16:35 CHM processed
+17/07/2024 15:16:36 CHM converted to points and heights processed
+17/07/2024 15:16:37 Points buffered and merged
+17/07/2024 15:16:38 Tree height buffers clipped
+17/07/2024 15:16:38 Single trees buffered and added
+17/07/2024 15:16:38 Areas calculated
+17/07/2024 15:16:40 Output image created
+17/07/2024 15:18:00 Workspace and geodatabase set up at:
+17/07/2024 15:18:01 Net harvestable area determined
+17/07/2024 15:18:01 Tree layer clipped
+17/07/2024 15:18:06 CHM processed
+17/07/2024 15:18:07 CHM converted to points and heights processed
+17/07/2024 15:18:08 Points buffered and merged
+17/07/2024 15:18:08 Tree height buffers clipped
+17/07/2024 15:18:08 Single trees buffered and added
+17/07/2024 15:18:08 Areas calculated
+17/07/2024 15:18:10 Output image created
+17/07/2024 15:22:25 Workspace and geodatabase set up at:
+17/07/2024 15:22:26 Net harvestable area determined
+17/07/2024 15:22:26 Tree layer clipped
+17/07/2024 15:22:30 CHM processed
+17/07/2024 15:22:33 CHM converted to points and heights processed
+17/07/2024 15:23:06 Points buffered and merged
+17/07/2024 15:23:07 Tree height buffers clipped
+17/07/2024 15:23:07 Single trees buffered and added
+17/07/2024 15:23:07 Areas calculated
+17/07/2024 15:23:09 Output image created
+17/07/2024 15:25:33 Workspace and geodatabase set up at:
+17/07/2024 15:25:34 Net harvestable area determined
+17/07/2024 15:25:34 Tree layer clipped
+17/07/2024 15:25:39 CHM processed
+17/07/2024 15:25:40 CHM converted to points and heights processed
+17/07/2024 15:25:40 Points buffered and merged
+17/07/2024 15:25:41 Tree height buffers clipped
+17/07/2024 15:25:41 Single trees buffered and added
+17/07/2024 15:25:41 Areas calculated
+17/07/2024 15:25:43 Output image created
+23/07/2024 12:11:55 Workspace and geodatabase set up at:
+23/07/2024 12:11:57 Net harvestable area determined
+23/07/2024 12:11:57 Tree layer clipped
+23/07/2024 12:12:02 CHM processed
+23/07/2024 12:12:05 CHM converted to points and heights processed
+23/07/2024 12:12:31 Points buffered and merged
+23/07/2024 12:12:32 Tree height buffers clipped
+23/07/2024 12:12:32 Single trees buffered and added
+23/07/2024 12:12:32 Areas calculated
+23/07/2024 12:12:34 Output image created
+23/07/2024 12:14:07 Workspace and geodatabase set up at:
+23/07/2024 12:14:08 Net harvestable area determined
+23/07/2024 12:14:08 Tree layer clipped
+23/07/2024 12:14:13 CHM processed
+23/07/2024 12:14:16 CHM converted to points and heights processed
+23/07/2024 12:14:43 Points buffered and merged
+23/07/2024 12:14:44 Tree height buffers clipped
+23/07/2024 12:14:44 Single trees buffered and added
+23/07/2024 12:14:44 Areas calculated
+23/07/2024 12:14:46 Output image created
+23/07/2024 12:36:53 Workspace and geodatabase set up at:
+23/07/2024 12:36:54 Net harvestable area determined
+23/07/2024 12:36:54 Tree layer clipped
+23/07/2024 12:36:59 CHM processed
+23/07/2024 12:37:02 CHM converted to points and heights processed
+23/07/2024 12:37:28 Points buffered and merged
+23/07/2024 12:37:29 Tree height buffers clipped
+23/07/2024 12:37:29 Single trees buffered and added
+23/07/2024 12:37:29 Areas calculated
+23/07/2024 12:37:31 Output image created
+23/07/2024 13:09:26 Workspace and geodatabase set up at:
+23/07/2024 13:09:27 Net harvestable area determined
+23/07/2024 13:09:27 Tree layer clipped
+23/07/2024 13:09:32 CHM processed
+23/07/2024 13:09:33 CHM converted to points and heights processed
+23/07/2024 13:09:36 Points buffered and merged
+23/07/2024 13:09:37 Tree height buffers clipped
+23/07/2024 13:09:37 Single trees buffered and added
+23/07/2024 13:09:37 Areas calculated
+23/07/2024 13:09:39 Output image created
+23/07/2024 13:20:11 Workspace and geodatabase set up at:
+23/07/2024 13:20:12 Net harvestable area determined
+23/07/2024 13:20:12 Tree layer clipped
+23/07/2024 13:20:17 CHM processed
+23/07/2024 13:20:19 CHM converted to points and heights processed
+23/07/2024 13:20:40 Points buffered and merged
+23/07/2024 13:20:41 Tree height buffers clipped
+23/07/2024 13:20:41 Single trees buffered and added
+23/07/2024 13:20:41 Areas calculated
+23/07/2024 13:20:43 Output image created
+23/07/2024 13:21:35 Workspace and geodatabase set up at:
+23/07/2024 13:21:37 Net harvestable area determined
+23/07/2024 13:21:37 Tree layer clipped
+23/07/2024 13:21:40 CHM processed
+23/07/2024 13:21:44 CHM converted to points and heights processed
+23/07/2024 13:30:40 Workspace and geodatabase set up at:
+23/07/2024 13:30:41 Net harvestable area determined
+23/07/2024 13:30:41 Tree layer clipped
+23/07/2024 13:30:45 CHM processed
+23/07/2024 13:30:49 CHM converted to points and heights processed
+23/07/2024 13:31:24 Points buffered and merged
+23/07/2024 13:31:25 Tree height buffers clipped
+23/07/2024 13:31:25 Single trees buffered and added
+23/07/2024 13:31:25 Areas calculated
+23/07/2024 13:31:26 Output image created
